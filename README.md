@@ -24,7 +24,9 @@ cd fila-atendimento-sus
 javac -d . src/br/edu/fatecpg/abstracaoLogica/model/FilaAtendimento.java src/br/edu/fatecpg/abstracaoLogica/view/Main.java
 java br.edu.fatecpg.abstracaoLogica.view.Main
 ````
+
 ### 📂 Estrutura do projeto
+````
 📂 fila-atendimento-sus
  ┣ 📂 src
  ┃ ┣ 📂 br
@@ -36,7 +38,7 @@ java br.edu.fatecpg.abstracaoLogica.view.Main
  ┃ ┃ ┃ ┃ ┃ ┣ 📂 view
  ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜 Main.java
  ┣ 📜 README.md
- 
+ ````
 ### 📝 Descrição das Classes
 🔹 FilaAtendimento.java
 📌 Gerencia a fila de pacientes e permite que novos pacientes sejam adicionados.
